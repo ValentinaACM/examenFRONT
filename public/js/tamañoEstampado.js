@@ -138,7 +138,8 @@ document
 
 
 // URL de la API para obtener y manipular datos de tipo de estampado
-const url = "http://localhost:8383/tipoEstampado";
+//const url = "http://localhost:8383/tipoEstampado";
+const url = "https://examenfront.onrender.com";
 
 // Función asincrónica para listar tamaños y tipos de estampados
 const listarTamanoTipoEstampados = async () => {
